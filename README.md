@@ -1,2 +1,2 @@
 # second-item
-My Second Portfolio Web page 
+My Second Single Page Portfolio Web page 
